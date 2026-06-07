@@ -1,6 +1,7 @@
 # 👋 Halo gusy, Nama sy Muhammad Rakha Fadhilah
 
-Sya adalah mahasiswa aktif Politeknik Negeri Indramayu dgn prodi Rekayasa Perangkat Lunak, ultah ak 18 mei (incase mau ngucapin hbd🥀)
+Sya adalah mahasiswa aktif Politeknik Negeri Indramayu dgn prodi Rekayasa Perangkat Lunak<br>
+ak berultah pada 18 mei (incase mau ngucapin hbd🥀)<br>
 udh segini aja infornya takut kena doksing🙏🙏.
 
 ---
@@ -29,4 +30,4 @@ Kumpulan sertifikat diluar kuliah:
 ---
 
 ## 📊 GitHub Stats
-![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=rkhaf&show_icons=true&theme=tokyonight)
+![Statistik GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=rkhaf&show_icons=true&theme=tokyonight)
