@@ -14,7 +14,7 @@ udh segini aja infornya takut kena doksing🙏🙏.
 ---
 
 ## 📜 Sertifikat
-Kumpulan sertifikat diluar kuliah:
+Kumpulan sertifikat diluar kuliah (dikasi sma sololearn, tpi masi nub & hrus belajar lagi sih):
 
 <p align="left">
   <img src="e79b8eae-c04d-4326-9590-771919d42985.png" width="190" alt="Sertif Python">&nbsp;
